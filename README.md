@@ -12,6 +12,7 @@
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
+Get clone this repo (git@github.com:principles31/Math_Magicians.git) into to your local machine
 ### Prerequisites
 - Web browser
 - Code editor
