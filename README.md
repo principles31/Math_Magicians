@@ -8,7 +8,7 @@
 - JAVASCRIPT
 - React
 ## Live Demo (if available)
-[Live Demo Link]()
+[Live Demo Link]( https://principles31.github.io/Math_Magicians/)
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
