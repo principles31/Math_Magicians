@@ -9,6 +9,8 @@
 - React
 ## Live Demo (if available)
 [Live Demo Link]( https://principles31.github.io/Math_Magicians/)
+(https://app.netlify.com/sites/stupendous-mandazi-0fcd8f/deploys/)
+(https://dashboard.heroku.com/apps/principles31/deploy/github)
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
