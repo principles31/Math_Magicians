@@ -1,6 +1,9 @@
 # Math_magician
 > A web app for math magicians.
 > ![Math Magicians](https://user-images.githubusercontent.com/90258833/176206520-763e8e34-0c67-4da9-aca3-d87caef8b057.png)
+> ![Math Magicians](https://user-images.githubusercontent.com/90258833/176208087-74671e49-31e1-459a-ad3f-84cb8faf60d1.png)
+> ![Math Magicians](https://user-images.githubusercontent.com/90258833/176208145-2307ef64-29f1-470e-9370-63fefb1d0bc2.png)
+
 ## Built With
 
 - HTML
