@@ -1,6 +1,5 @@
 # Math_magician
 > A web app for math magicians.
-> - https://user-images.githubusercontent.com/
 ## Built With
 
 - HTML
