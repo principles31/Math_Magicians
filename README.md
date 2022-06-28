@@ -1,6 +1,6 @@
 # Math_magician
 > A web app for math magicians.
-[Screenshot from 2022-06-15 07-19-26](https://user-images.githubusercontent.com/90258833/173767859-b137114e-44d9-42e4-9f5b-970d85714c6f.png)
+> - (https://user-images.githubusercontent.com/90258833/173767859-b137114e-44d9-42e4-9f5b-970d85714c6f.png)
 ## Built With
 
 - HTML
